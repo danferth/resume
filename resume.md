@@ -1,84 +1,73 @@
-#Dan Klotz
-###*Web developer | illustrator*
-<danferth@gmail.com>
+Intro
+Originally trained in fine art photography and moving to print design and then web development I have seen the process from all angles and know the details each block of the process needs to contribute to a finished job.  Being able to take a project from light bulb to polished web and print marketing in a solo or team environment enables me to take on any aspect of a job whether it be design, front end development and even a some back end coding.  I enjoy both working on a project in its entirety, as well as concentrating on a single step in the process. 
 
-##Summary
+...Either way the goal is to complete a task on time and to blow the client and user out of there seat with the finished product.
+Skills and Badges (...don’t need no stinking badges)
+Front end gibber gabber
+	HTML
+	CSS (yes, know the sass thing)
+	gulp/grunt (gulp ftw!)
+	javascript (vanila & jQuery)
+	Greensock (animation is a good thing)
+	PHP (not only WP but I can just code with it too!)
+	MYSQL
+	Apache (can install, setup and configure your web server) 
+Frameworks and such
+	Foundation (got to have one under your belt and I like this one)
+	Bootstrap (not yet just give me a project to work on and boom!)
+Wordpress (not only CSS but the PHP part too!)
+	AngularJS (just enough to get myself into trouble but enough JS to get me out of trouble)
+Design Stuff
+	Ball point pen and paper (design always starts here)
+	Illustrator, Photoshop, …… (programs are tools and tools can easily be used by the craftsman)
+	InDesign (for books and multiple page jobs)
+	I also have tons of talent calibrating monitors and printers, have not only worked with large format but can handle working with outside vendors to get what needs to be done and have it look freaking good to boot. Paper choice and going with modern and fancy pants printing is worth it bit if the client wants bargain basement paper stock I can make that work to.  Just have to be creative about it.
+Employment
+2010 - present | Thomson Instrument Company
+Print & Web Development
+Responsible for the initiation and creation of all print and digital marketing.
 
-###Design Accomplishments
-- Create stylized websites with user interactivity and aesthetic function: Develop  custom art and color spaces to incorporate into a hand coded website, where the user experience is fluid  and the look and feel of the site is fresh and pushes the customers’ expectation of design. No templates or  static design just pure art in the electronic form. •Develop marketing packages from the ground up: Create  photographic images from camera to Photoshop, custom vector graphics in Illustrator, and complete it with  website and a splash of print.
-- Corporate identity creation: Companies ranging from casino games to electrical  manufacturing. Keeping in mind how each company will utilize the brand and their own marketing needs.
-- Brochures and instruction manuals: Illustration and layout, of one color high detail technical manuals to full color brochures involving photographs and illustrations. From local parts warehouses to national medical manufacturing companies.
-- Technical Illustration for patent work: Most illustrations were created from physical prototypes or hand sketches on a bar napkin. Decision making on manufacturing process as some patents are only a idea of the inventors. •Scale models for courtroom presentation: Static white architectural to realistic landscape displays where the subject covered many square miles. Extremely accurate topography and detail, and each one to its own scale involving completely custom manufacturing from scratch. Specialties: Creating designs and complete all aspects of the imagery from drawings to photography, then hand code the website is what i do, also create print versions if needed.
+Work at Thomson is never the same day to day.  I am in charge of designing and creating everything from the photos and illustrations in the marketing to the print layouts and website that the imagery in placed into. You could say I play the role of digital hat rack as every aspect of the creative process in in my hands.  I run a one man show and coordinate with sales and management to ensure that the direction of marketing in the company is used to its fullest potential.
 
-##Experience
+Takeaway: Having the freedom to create something every week in a different medium allows me to see the project from every angle. Day to day would be discuss need for a marketing item with management, then coordinate with sales to get data and text. Layout flyer, poster, booklet, or webpage. Take photos and or shoot video for the project.  Manipulate everything with adobe and create illustrations to go along. Sent to print and open codepen to start wireframing the design into a webpage or web app.
 
-**Front end Web developer | illustrator at Thomson Instrument Comapny**
+2009 - 2010 | AK illustrations
+Freelance business
+Logo to website and everything in between.
 
-*September 2010 - Present (4 years 11 months)*
+Started AK illustrations to provide web and print marketing, as well as consultations on marketing strategies to customers in various industries.
 
-I get to don many hats here. Some days photo & video at labs for application notes, others are filled with engineering drawings for product prototypes, then again might be creating illustrations or front end web development. All in all great company to work for, learn something new everyday.
+Takeaway: proved to myself that i could support myself and family on a freelance income.  Learned I could provide a great service just in consulting clients on the web and how it works.  One Client Thomson Instrument Company persuaded me to close shop and work for them full time.
 
------------------
+2005 - 2009 | Tara Trades
+Graphic Designer/Production Manager
+Design work for a variety of clients.
 
-**Web Developer/Graphic Designer at AK illustrations**
+Responsible for the day to day business details as well as manage small teams in design and production of indoor and outdoor displays.
 
-*September 2009 - September 2010 (1 year 1 month)*
+Takeaway: Learned a lot about managing teams and running and small business. These skills provided me with the skills needed to start AK illustrations a freelance business started 2010.
 
-Started this company to provide support for clients I gathered at Sign A Rama. Instead of signs though the work was primarily web development and illustration. A great learning experience and a good lesson in paperwork and the tax code was gathered during this endeavor. Unfortunately One client Thomson Instrument Company wanted me full time in there marketing department so I closed the doors to paperwork and took a 9-5. More time with the kids now!
+2004 - 2008 | Hunter Legal Graphics
+Technical Illustrator
+Technical Illustration and Patent Drawings for various inventors
 
----------------
+Hunter Legal Graphics provided patent and technical illustrations for a variety of clients from local inventors and medical companies at the top of the field in orthopaedic braces to SDGE .  I provided graphic design and illustration services along with consultation on manufacturing concerns to inventors. 
 
-**Lead Graphic Designer/Production Manager at sign a rama Oceanside**
+Takeaway: During my time at Hunter Legal I learned more about the patent process and especially the illustration part than I will ever need to know.
 
-*April 2005 - January 2010 (4 years 10 months)*
+Other shit I’ve done
+Model Building
+Commercial Sales
+Non-profit work
+Machinist
+Wood Worker
+Gun Smith
+…
 
-Here I wore all of the hats. I was responsible for the day to day operations of the shop along with all customer service, design, manufacturing, instillation, and ordering. I was basically left at the store and kept it running for the owners for 4 years before calling it quits and opening AK illustrations.15 recommendations available upon requestContract 
-
-----------------
-
-**Graphic Designer/Technical Illustrator at Hunter Legal Graphics**
-
-*October 2004 - October 2008 (4 years 1 month)*
-
-This was a fun job. I got to sit in an office and illustrate patents and other technical illustrations. Also they created highly detailed scale models which were a good change of pace. Job was freelance so part time. Left for a full time position at Sign A Rama Graphic
-
--------------------------
-
-**Designer/Event Coordinator at Houston Community College**
-
-*January 2003 - August 2004 (1 year 8 months)*
-
-Worked in the Job Placement office as job developer, giving talks on resume writing to job finding strategies. Worked with local and national companies finding placement for upcoming graduates. Also created inhouse graphics for the department as well as some others. Worked with other departments to corodinate large scale job fairs at the George R. Brown Convention Center.
-
-----------------------
-
-**Graphic Designer/Photographer at DataMite Technologies, LLC**
-
-*January 1997 - August 2004 (7 years 8 months)*
+Education
+Texas A&M University
+Fine Arts
 
 
-##Skills & Expertise
 
-- Illustration
-- Advertising
-- Brochures
-- Graphics
-- Graphic Design
-- Adobe Creative Suite
-- Illustrator
-- Photography
-- Web Design
-- Logo Design
-- Art
-- Layout
-- Posters
-- Photoshop
-- User Experience
-- Vector Illustration
-- Web Development
-- Corporate Identity
 
-##Education
-
-Texas A&M University-Commerce
-Fine Arts, 1994 - 1997

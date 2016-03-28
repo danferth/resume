@@ -1,0 +1,132 @@
+@font-face {
+      font-family: "FontAwesome";
+      src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/fonts/fontawesome-webfont.woff");
+    }
+*{box-sizing:border-box;} html, body{height:100%; width:100%;margin:0; padding:0;}
+$base-color: hsla(0, 0%, 67%, 1);
+$white        : scale-color($base-color, $lightness: 100%);
+$ghost        : scale-color($base-color, $lightness: 94%);
+$snow         : scale-color($base-color, $lightness: 92%);
+$vapor        : scale-color($base-color, $lightness: 89%);
+$white-smoke  : scale-color($base-color, $lightness: 88%);
+$silver       : scale-color($base-color, $lightness: 81%);
+$smoke        : scale-color($base-color, $lightness: 80%);
+$gainsboro    : scale-color($base-color, $lightness: 61%);
+$iron         : scale-color($base-color, $lightness: 39%);
+$base         : scale-color($base-color, $lightness:  0%);
+$aluminum     : scale-color($base-color, $lightness: -10%);
+$jumbo        : scale-color($base-color, $lightness: -20%);
+$monsoon      : scale-color($base-color, $lightness: -30%);
+$steel        : scale-color($base-color, $lightness: -40%);
+$charcoal     : scale-color($base-color, $lightness: -50%);
+$tuatara      : scale-color($base-color, $lightness: -60%);
+$oil          : scale-color($base-color, $lightness: -70%);
+$jet          : scale-color($base-color, $lightness: -80%);
+$black        : scale-color($base-color, $lightness: -100%);
+
+body{
+  background:$ghost;
+  padding-left:15%;
+  padding-top:15%;
+  font-family:"Open Sans";
+  @media screen and(max-width:700px){
+    padding-left:2%;
+  }
+}
+.wrap{
+  .wrap-inner{
+    display:inline-block;
+    margin:0 auto;
+  }
+}
+.title{
+  h1{
+    margin:0;
+    color:$silver;
+    text-shadow:0 -1px $gainsboro,0 2px 0 $white;
+    font-size:8rem;
+    line-height:8rem;
+    text-transform:uppercase;
+    font-weight:900;
+    font-family:'Rubik';
+    cursor:none;
+    transition:all 1000ms; 
+    span{
+      color:$gainsboro;
+      transition:color 1000ms
+    }
+    &:hover{
+      color:$gainsboro;
+      span{
+        color:$silver
+      }
+    }
+    @media screen and(max-width:700px){
+      font-size:3rem;
+      line-height:3rem;
+    }
+  }
+}
+
+.social{
+    color:$gainsboro;
+    text-shadow:0 1px 0 $white;
+    cursor:grab;
+  .icons a{
+    color:$gainsboro;
+  }
+  &:hover{
+    color:$iron;
+    .icons a{
+      color:$iron;
+    }
+  }
+  p{
+    margin:0 .125rem 0 0;
+    height:2rem;
+    padding-top:1rem;
+    display:inline-block;
+    text-transform:lowercase;
+    letter-spacing:2px;
+    font-size:1.3rem;
+    line-height:1.3rem;
+    transition:all 300ms
+  }
+  .icons{
+    display:inline-block;
+    height:2rem;
+    padding:0;
+    i{
+      margin:0 .45rem 0 0;
+      font-size:1.3rem;
+    line-height:1.3rem;
+      padding:1rem .125rem 0 .125rem;
+      display:block;
+      height:2rem;
+      float:left;
+      position:relative;
+      transition:all 300ms;
+      &:after{
+        content:"";
+        position:absolute;
+        left:0;
+        bottom:0;
+        width:1.2rem;
+        height:.125rem;
+        border-radius:100%;
+        background:hsla(172, 100%, 17%, 0.65);
+        opacity:0;
+        transition:all 250ms;
+      }
+      &:hover{
+        color:hsla(172, 100%, 46%, 1);
+        height:2rem;
+        padding-top:0;
+        cursor:grabbing;
+        &:after{
+          opacity:.8;
+        }
+      }
+    }
+  }
+}
