@@ -1,6 +1,10 @@
 {
   "devDependencies": {
-    "gulp": "^3.9.0"
-
+    "autoprefixer": "^6.3.5",
+    "csswring": "^4.2.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
   }
 }
