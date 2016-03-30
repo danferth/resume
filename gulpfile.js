@@ -16,16 +16,16 @@ gulp.task('default',['watch']);
 gulp.task('build-css',function(){
     var processors = [autoprefixer({browsers:['last 2 version']}),csswring];
     var build_processors = [csswring];
-    return gulp.src('/assets/scss/global.scss')
+    return gulp.src('assets/scss/global.scss')
     .pipe(sourcemaps.init())
     .pipe(sass())
     .pipe(postcss(processors))
     .pipe(sourcemaps.write())
-    .pipe(gulp.dest('assets/css/'));
+    .pipe(gulp.dest('assets/css'));
 });
 
 
 //watch
 gulp.task('watch',function(){
-    gulp.watch('/assets/scss/*.scss', ['build-css']);
+    gulp.watch('assets/scss/**', ['build-css']);
 });
