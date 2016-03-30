@@ -1,4 +1,8 @@
-Intro
+Dan Klotz | Resume
+======
+
+#Intro
+
 Originally trained in fine art photography and moving to print design and then web development I have seen the process from all angles and know the details each block of the process needs to contribute to a finished job.  Being able to take a project from light bulb to polished web and print marketing in a solo or team environment enables me to take on any aspect of a job whether it be design, front end development and even a some back end coding.  I enjoy both working on a project in its entirety, as well as concentrating on a single step in the process. 
 
 ...Either way the goal is to complete a task on time and to blow the client and user out of there seat with the finished product.
