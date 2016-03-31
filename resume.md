@@ -30,40 +30,32 @@ Skills and Badges (...don’t need no stinking badges)*
 
 ## Employment
 
-*2010 - present | Thomson Instrument Company*
-
-**Print & Web Development**
-
+*2010 - present | Thomson Instrument Company*  
+**Print & Web Development**  
 Responsible for the initiation and creation of all print and digital marketing.
 
 Work at Thomson is never the same day to day.  I am in charge of designing and creating everything from the photos and illustrations in the marketing to the print layouts and website that the imagery in placed into. You could say I play the role of digital hat rack as every aspect of the creative process in in my hands.  I run a one man show and coordinate with sales and management to ensure that the direction of marketing in the company is used to its fullest potential.
 
 **Takeaway: Having the freedom to create something every week in a different medium allows me to see the project from every angle. Day to day would be discuss need for a marketing item with management, then coordinate with sales to get data and text. Layout flyer, poster, booklet, or webpage. Take photos and or shoot video for the project.  Manipulate everything with adobe and create illustrations to go along. Sent to print and open codepen to start wireframing the design into a webpage or web app.*
 
-*2009 - 2010 | AK illustrations*
-
-**Freelance business**
-
+*2009 - 2010 | AK illustrations*  
+**Freelance business**  
 Logo to website and everything in between.
 
 Started AK illustrations to provide web and print marketing, as well as consultations on marketing strategies to customers in various industries.
 
 *Takeaway: proved to myself that i could support myself and family on a freelance income.  Learned I could provide a great service just in consulting clients on the web and how it works.  One Client Thomson Instrument Company persuaded me to close shop and work for them full time.*
 
-*2005 - 2009 | Tara Trades*
-
-**Graphic Designer/Production Manager**
-
+*2005 - 2009 | Tara Trades*  
+**Graphic Designer/Production Manager**  
 Design work for a variety of clients.
 
 Responsible for the day to day business details as well as manage small teams in design and production of indoor and outdoor displays.
 
 *Takeaway: Learned a lot about managing teams and running and small business. These skills provided me with the skills needed to start AK illustrations a freelance business started 2010.*
 
-*2004 - 2008 | Hunter Legal Graphics*
-
-**Technical Illustrator**
-
+*2004 - 2008 | Hunter Legal Graphics*  
+**Technical Illustrator**  
 Technical Illustration and Patent Drawings for various inventors
 
 Hunter Legal Graphics provided patent and technical illustrations for a variety of clients from local inventors and medical companies at the top of the field in orthopaedic braces to SDGE .  I provided graphic design and illustration services along with consultation on manufacturing concerns to inventors. 
@@ -80,7 +72,8 @@ Hunter Legal Graphics provided patent and technical illustrations for a variety 
 …
 
 ## Education
-*Texas A&M University*
+
+*Texas A&M University*  
 **Fine Arts**
 
 
