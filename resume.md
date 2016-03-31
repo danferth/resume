@@ -62,15 +62,6 @@ Hunter Legal Graphics provided patent and technical illustrations for a variety 
 
 *Takeaway: During my time at Hunter Legal I learned more about the patent process and especially the illustration part than I will ever need to know.*
 
-### Other shit I’ve done
-- Model Building
-- Commercial Sales
-- Non-profit work
-- Machinist
-- Wood Worker
-- Gun Smith
-…
-
 ## Education
 
 *Texas A&M University*  
